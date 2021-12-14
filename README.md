@@ -1,2 +1,25 @@
-# graduation-project  
-2021 graduation project
+# 2021-2022 Graduation project
+
+5분반 5조
+
+
+# Home Training - Yoga
+
+It helps you to make the movements more sophisticated. When you do yoga alone at home.
+
+# Overview
+
+![overview1](https://github.com/yougi8/graduation-project/blob/main/images/overview1.JPG)  
+![overview2](https://github.com/yougi8/graduation-project/blob/main/images/overview2.JPG)  
+![overview3](https://github.com/yougi8/graduation-project/blob/main/images/overeview3.JPG)  
+![overview4](https://github.com/yougi8/graduation-project/blob/main/images/overview4.JPG)  
+![overview5](https://github.com/yougi8/graduation-project/blob/main/images/overview5.JPG)
+
+
+
+# Presentation video
+
+
+
+> **presentation 1 :**  https://youtu.be/4IcUK1IZtOo  
+>  **presentation 2 :**  
