@@ -1,7 +1,7 @@
 
 ## Graduation Project
 
-**[ Home Training - Yoga ]**
+**[ Home Training - Yoga ]**   
 It helps you to make the **movements more sophisticated**. When you do **yoga** alone at **home**.
 
 ## Overview
