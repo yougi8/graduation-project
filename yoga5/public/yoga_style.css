@@ -1,0 +1,101 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+  align-items: center;
+  overflow-x: hidden;
+}
+
+a:hover{ text-decoration: none; color:white; font-weight: bold; font-size: large;}
+a:visited{ text-decoration: none; color:white; }
+a:link{text-decoration: none; color:white; }
+
+main{
+  padding-top:100px;
+  
+}
+
+.header-area {
+  text-align: center;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  z-index: 100;
+  height: 80px;
+  background: #4a4948;
+}
+
+.header-area .main-nav {
+  min-height: 80px;
+  background: transparent;
+}
+
+.header-area .main-nav .logo {
+  line-height: 80px;
+  font-size: 32px;
+  font-weight: 800;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.header-area .main-nav .logo em {
+  font-style: normal;
+  color: #ed563b;
+  font-weight: 900;
+}
+
+.header-area .main-nav .nav {
+  float: right;
+  margin-top: 27px;
+  margin-right: 0px;
+  background-color: transparent;
+  -webkit-transition: all 0.3s ease 0s;
+  -moz-transition: all 0.3s ease 0s;
+  -o-transition: all 0.3s ease 0s;
+  transition: all 0.3s ease 0s;
+  position: relative;
+  z-index: 999;
+}
+
+
+
+#title{
+  text-align: center;
+}
+
+#info{
+  margin-top:70px;
+}
+#info a:hover{
+  font-weight: normal;
+  font-size: medium;
+  text-decoration: underline;
+}
+#info p{
+  padding-top:20px;
+  padding-bottom:20px;
+}
+#left{
+  width:20%;
+  float:left;
+  padding-left:2%;
+  margin-right:2%;
+  font-weight: bold;
+}
+#right{
+  width:70%;
+  float:left;
+}
+
+
+@media (max-width:838px){ /*가로 너비가 838px 이하일 때 아래 스타일 적용*/
+  .menu_top_parent>li a {
+      padding: 14px 30px;
+  }
+  hr{
+      width:200px;
+  }
+}

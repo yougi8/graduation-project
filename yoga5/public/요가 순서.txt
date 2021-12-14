@@ -1,0 +1,5 @@
+1.warrior2 R
+2.warrior2 L
+3. cow
+4. goddess
+5.downdog
