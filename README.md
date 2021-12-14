@@ -33,5 +33,5 @@ It helps you to make the **movements more sophisticated**. When you do **yoga** 
 
 * 신동화() : chatbot
 * 유지연([@yougi8](https://github.com/yougi8)) : ui/ux
-* 최완규() : tts & thermal camera
+* 최완규([@Wankyu-Choi]) : tts & thermal camera
 * 황수하([@hp0724](https://github.com/hp0724)) : pose detection
