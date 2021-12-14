@@ -2,7 +2,9 @@
 # Graduation Project
 
 **[ Home Training - Yoga ]**   
-It helps you to make the **movements more sophisticated**. When you do **yoga** alone at **home**.
+It helps you to make the **movements more sophisticated**. When you do **yoga** alone at **home**.   
+
+***   
 
 # Overview
 
@@ -10,20 +12,22 @@ It helps you to make the **movements more sophisticated**. When you do **yoga** 
 ![overview2](https://github.com/yougi8/graduation-project/blob/main/images/overview2.JPG)  
 ![overview3](https://github.com/yougi8/graduation-project/blob/main/images/overeview3.JPG)  
 ![overview4](https://github.com/yougi8/graduation-project/blob/main/images/overview4.JPG)  
-![overview5](https://github.com/yougi8/graduation-project/blob/main/images/overview5.JPG)
+![overview5](https://github.com/yougi8/graduation-project/blob/main/images/overview5.JPG)   
+
+***   
 
 # Skills
 ![skill1](https://github.com/yougi8/graduation-project/blob/main/images/skill1.JPG)
 ![skill2](https://github.com/yougi8/graduation-project/blob/main/images/skill2.JPG)
 
+***   
 
-
-# Presentation video
-
-
+# Presentation video   
 
 > **presentation 1 :**  https://youtu.be/4IcUK1IZtOo  
 >  **presentation 2 :**  
+
+***   
 
 # Contributors
 
