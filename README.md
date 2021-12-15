@@ -25,7 +25,7 @@ It helps you to make the **movements more sophisticated**. When you do **yoga** 
 # Presentation video   
 
 > **presentation 1 :**  https://youtu.be/4IcUK1IZtOo  
->  **presentation 2 :**  
+>  **presentation 2 :**  https://youtu.be/JG3jbg7adsY   
 
 ***   
 
