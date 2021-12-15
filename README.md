@@ -18,7 +18,8 @@ It helps you to make the **movements more sophisticated**. When you do **yoga** 
 
 # Skills
 ![skill1](https://github.com/yougi8/graduation-project/blob/main/images/skill1.JPG)
-![skill2](https://github.com/yougi8/graduation-project/blob/main/images/skill2.JPG)
+![skill2](https://github.com/yougi8/graduation-project/blob/main/images/skill2.JPG)   
+![skill3](https://github.com/yougi8/graduation-project/blob/main/images/skill3.JPG)   
 
 ***   
 
