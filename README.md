@@ -32,7 +32,7 @@ It helps you to make the **movements more sophisticated**. When you do **yoga** 
 
 # Contributors
 
-* 신동화([@ehdghk1020]) : chatbot
+* 신동화([@ehdghk1020](https://github.com/ehdghk1020)) : chatbot
 * 유지연([@yougi8](https://github.com/yougi8)) : ui/ux & server
 * 최완규([@Wankyu-Choi](https://github.com/Wankyu-Choi)) : tts & thermal camera
 * 황수하([@hp0724](https://github.com/hp0724)) : pose detection
